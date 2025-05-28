@@ -19,7 +19,7 @@
  ```
 /*
 Program to implement a ARRAY LIST using Java
-Developed by: GUmma Dileep Kumar
+Developed by: Gumma Dileep Kumar
 RegisterNumber:  212222240032
 */
 ```
